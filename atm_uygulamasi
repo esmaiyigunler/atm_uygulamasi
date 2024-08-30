@@ -34,7 +34,6 @@ def sifreDegistir(kullaniciSifreleri, kullaniciIndeksi, eskiSifre, yeniSifre):
     else:
         print("Eski şifre hatalı")
 
-
 while True:
     kullaniciAdi = input("Kullanıcı adınızı giriniz: ")
     sifre = input("Şifrenizi giriniz: ")
